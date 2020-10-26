@@ -1,0 +1,12 @@
+*.pyc
+*.swp
+.DS_STORE
+.coverage
+*._*
+npm-debug.log
+.python-version
+__pycache__
+.sass-cache
+.env
+venv
+
