@@ -2,9 +2,9 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /srv/mcsalesportal/
+    destination: /srv/snakeoil/
 permissions:
-  - object: /srv/mcsalesportal/
+  - object: /srv/snakeoil/
     owner: ubuntu
     group: ubuntu
 hooks:
