@@ -5,4 +5,4 @@ python = '/srv/{}'.format(site_name)
 bind = '127.0.0.1:8001'
 
 preload_app = True
-workers = 3
+workers = 2
